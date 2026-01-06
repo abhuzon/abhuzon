@@ -1,4 +1,6 @@
 💫 About Me:
+
+
  Hi 👋 I’m Abhushan Ojha — a Computer Vision Engineer focused on real-time video understanding and deployment-ready ML. I build end-to-end CV systems: data → training → evaluation → optimization → inference + benchmarking.<br><br>Video understanding: abnormal activity detection, lightweight temporal modeling (LSTM/GRU), edge FPS benchmarking (Jetson/RK3588)<br><br>Generative vision: identity-preserving face editing with ArcFace/LPIPS/SSIM, plus p50/p95 latency and VRAM tracking<br><br>Engineering: PyTorch (DDP/AMP), CUDA/Docker, profiling, config-driven reproducible experiments<br><br>📚 Publications: Google Scholar.<br>👇 Projects below include reproducible training, ablations, benchmarks, and demos.
 
 
